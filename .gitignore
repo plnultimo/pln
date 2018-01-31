@@ -5,6 +5,9 @@
 /tmp
 /out-tsc
 /html
+/venv
+db.sqlite3
+
 # dependencies
 /node_modules
 
@@ -16,7 +19,7 @@
 *.launch
 .settings/
 *.sublime-workspace
-/venv
+
 
 # IDE - VSCode
 .vscode/*
